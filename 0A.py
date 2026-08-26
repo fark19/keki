@@ -67,7 +67,6 @@ def parse_playlist(content, group_title):
         # ----------------------------------------------------
         if line.startswith("#EXTINF:"):
 
-            # Get channel name after the comma
             channel_name = line.split(",", 1)[1].strip()
 
             current_extinf = channel_name
@@ -120,20 +119,19 @@ all_channels = []
 
 for group_title, url in sources:
 
-    print(f"Downloading: {url}")
+    print(f"Downloading: {group_title}")
 
     try:
+
         response = requests.get(
             url,
             headers=headers,
             timeout=20
         )
-        response.raise_for_status()
-    
-    except requests.RequestException as e:
-        print(f"ERROR downloading {group_title}: {e}")
-        continue
 
+        response.raise_for_status()
+
+        # Parse the playlist
         channels = parse_playlist(
             response.text,
             group_title
@@ -145,7 +143,8 @@ for group_title, url in sources:
 
     except requests.RequestException as e:
 
-        print(f"  ERROR: {e}")
+        print(f"  ERROR downloading {group_title}: {e}")
+        continue
 
 
 # ============================================================
@@ -187,6 +186,10 @@ with open(
 
     f.write("\n".join(output_lines) + "\n")
 
+
+# ============================================================
+# SUMMARY
+# ============================================================
 
 print()
 print(f"Created: {output_file}")
