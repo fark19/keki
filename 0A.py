@@ -33,6 +33,10 @@ sources = [
         "liste",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/liste.m3u"
     ),
+    (
+        "sabit",
+        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit.m3u"
+    ),
 ]
 
 output_file = "0A.m3u"
