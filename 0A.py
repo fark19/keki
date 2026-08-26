@@ -9,21 +9,27 @@ sources = [
         "karsilasmalar",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar.m3u"
     ),
+    (
         "karsilasmalar2",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar2.m3u"
     ),
+    (
         "karsilasmalar3",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar3.m3u"
     ),
+    (
         "karsilasmalar4",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar4.m3u"
     ),
+    (
         "karsilasmalar5",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar5.m3u"
     ),
+    (
         "atom_mac",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/atom_mac.m3u"
     ),
+    (
         "liste",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/liste.m3u"
     ),
@@ -117,14 +123,16 @@ for group_title, url in sources:
     print(f"Downloading: {url}")
 
     try:
-
         response = requests.get(
             url,
             headers=headers,
             timeout=20
         )
-
         response.raise_for_status()
+    
+    except requests.RequestException as e:
+        print(f"ERROR downloading {group_title}: {e}")
+        continue
 
         channels = parse_playlist(
             response.text,
