@@ -2,8 +2,7 @@ name: Generate 0A.m3u
 
 on:
   schedule:
-    - cron: "*/11 */1 * * *"
-
+    - cron: '*/9 * * * *'
   workflow_dispatch:
 
 permissions:
