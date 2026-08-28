@@ -2,7 +2,7 @@ name: Generate 0A.m3u
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "17 */2 * * *"
 
   workflow_dispatch:
 
@@ -34,12 +34,12 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet -- 0A.m3u; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "0A.m3u has not changed."
-          else
+          if git status --short -- 0A.m3u | grep -q .; then
             echo "changed=true" >> "$GITHUB_OUTPUT"
             echo "0A.m3u has changed."
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "0A.m3u has not changed."
           fi
 
       - name: Commit and push
