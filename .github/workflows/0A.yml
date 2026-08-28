@@ -2,8 +2,7 @@ name: Generate 0A.m3u
 
 on:
   schedule:
-    # Every 24 hours at 02:00 UTC
-    - cron: "0 2 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
