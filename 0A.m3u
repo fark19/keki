@@ -1,4 +1,42 @@
 #EXTM3U
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Samsunspor 3-3 Göztepe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_sam_goz_1h_17agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Amed Sportif Faaliyetler 3-0 Erzurumspor FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_amed_erzurum_1h_15agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Beşiktaş 1-0 Eyüpspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_bjk_eyup_1h_15agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",İstanbul Başakşehir 2-0 Kocaelispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_bas_koca_1h_16agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Gaziantep FK 1-1 Corendon Alanyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_ant_ala_1h_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Gençlerbirliği 2-1 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_genc_fb_1h_15agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Kasımpaşa 1-1 Trabzonspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_kas_ts_1h_15agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Tümosan Konyaspor 0-1 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_kon_rize_1h_15agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Galatasaray 2-2 Çorum FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_1_gs_cor_15agu_v3_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Kocaelispor 2-0 Amed Sportif Faaliyetler
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_koca_amed_2h_24agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Corendon Alanyaspor 1-0 Beşiktaş
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_ala_bjk_23agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Göztepe 0-1 Gençlerbirliği
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_goz_genc_2h_23agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Eyüpspor 0-1 Gaziantep FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_eyup_gazi_2h_23agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Trabzonspor 2-1 İstanbul Başakşehir
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_ts_bas_2h_23agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Fenerbahçe 4-2 Tümosan Konyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_fb_kon_22agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Çaykur Rizespor 0-2 Samsunspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_rizee_sam_22agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Çorum FK 0-1 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_corun_kas_22agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Erzurumspor FK 0-4 Galatasaray
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_erz_gs_2h_21agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Gençlerbirliği 1-1 Erzurumspor FK
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_genc_erz_28agu_ip&secure=1
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 1 A
 https://ilp.zirvedesin240.cfd/zirve/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 1 B
