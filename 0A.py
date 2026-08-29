@@ -6,6 +6,10 @@ import requests
 
 sources = [
     (
+        "Süper_Lig_2026-2027",
+        "https://raw.githubusercontent.com/mehmetey03/raply/refs/heads/main/metv/S%C3%BCper_Lig_2026-2027/S%C3%BCper_Lig_2026-2027.m3u"
+    ),
+    (
         "karsilasmalar",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar.m3u"
     ),
