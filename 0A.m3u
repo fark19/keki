@@ -35,142 +35,138 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_corun_kas_22agu_ip&secure=1
 #EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Erzurumspor FK 0-4 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_erz_gs_2h_21agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Galatasaray 3-2 Göztepe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_gs_goz_3h_29h_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Gaziantep FK 1-2 Çaykur Rizespor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_antep_rize_4h_29agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Tümosan Konyaspor 1-2 Kocaelispor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_kon_koca_29agu_ip&secure=1
 #EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Gençlerbirliği 1-1 Erzurumspor FK
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_genc_erz_28agu_ip&secure=1
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 1 A
-https://ilp.zirvedesin240.cfd/zirve/mono.m3u8
+https://as9.zirvedesin241.cfd/zirve/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 1 B
-https://ilp.zirvedesin240.cfd/patron/mono.m3u8
+https://as9.zirvedesin241.cfd/patron/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 1 C
-https://ilp.zirvedesin240.cfd/taraftarium/mono.m3u8
+https://as9.zirvedesin241.cfd/taraftarium/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 2
-https://ilp.zirvedesin240.cfd/b2/mono.m3u8
+https://as9.zirvedesin241.cfd/b2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 3
-https://ilp.zirvedesin240.cfd/b3/mono.m3u8
+https://as9.zirvedesin241.cfd/b3/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 4
-https://ilp.zirvedesin240.cfd/b4/mono.m3u8
+https://as9.zirvedesin241.cfd/b4/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 5
-https://ilp.zirvedesin240.cfd/b5/mono.m3u8
+https://as9.zirvedesin241.cfd/b5/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 1 Max
-https://ilp.zirvedesin240.cfd/bm1/mono.m3u8
+https://as9.zirvedesin241.cfd/bm1/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",beIN Sports 2 Max
-https://ilp.zirvedesin240.cfd/bm2/mono.m3u8
+https://as9.zirvedesin241.cfd/bm2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",S Sports 1
-https://ilp.zirvedesin240.cfd/ss1/mono.m3u8
+https://as9.zirvedesin241.cfd/ss1/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",S Sports 2
-https://ilp.zirvedesin240.cfd/ss2/mono.m3u8
+https://as9.zirvedesin241.cfd/ss2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Smart Sports
-https://ilp.zirvedesin240.cfd/smarts/mono.m3u8
+https://as9.zirvedesin241.cfd/smarts/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Smart Sports 2
-https://ilp.zirvedesin240.cfd/sms2/mono.m3u8
+https://as9.zirvedesin241.cfd/sms2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tivibu Sports 1
-https://ilp.zirvedesin240.cfd/t1/mono.m3u8
+https://as9.zirvedesin241.cfd/t1/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tivibu Sports 2
-https://ilp.zirvedesin240.cfd/t2/mono.m3u8
+https://as9.zirvedesin241.cfd/t2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tivibu Sports 3
-https://ilp.zirvedesin240.cfd/t3/mono.m3u8
+https://as9.zirvedesin241.cfd/t3/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tivibu Sports 4
-https://ilp.zirvedesin240.cfd/t4/mono.m3u8
+https://as9.zirvedesin241.cfd/t4/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",A Spor
-https://ilp.zirvedesin240.cfd/as/mono.m3u8
+https://as9.zirvedesin241.cfd/as/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",TRT Spor
-https://ilp.zirvedesin240.cfd/trtspor/mono.m3u8
+https://as9.zirvedesin241.cfd/trtspor/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",TRT Spor Yıldız
-https://ilp.zirvedesin240.cfd/trtspor2/mono.m3u8
+https://as9.zirvedesin241.cfd/trtspor2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",TRT 1
-https://ilp.zirvedesin240.cfd/trt1/mono.m3u8
+https://as9.zirvedesin241.cfd/trt1/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",ATV
-https://ilp.zirvedesin240.cfd/atv/mono.m3u8
+https://as9.zirvedesin241.cfd/atv/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",TV8.5
-https://ilp.zirvedesin240.cfd/tv85/mono.m3u8
+https://as9.zirvedesin241.cfd/tv85/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",NBA TV
-https://ilp.zirvedesin240.cfd/nbatv/mono.m3u8
+https://as9.zirvedesin241.cfd/nbatv/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Euro Sport 1
-https://ilp.zirvedesin240.cfd/eu1/mono.m3u8
+https://as9.zirvedesin241.cfd/eu1/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Euro Sport 2
-https://ilp.zirvedesin240.cfd/eu2/mono.m3u8
+https://as9.zirvedesin241.cfd/eu2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tâbii 1
-https://ilp.zirvedesin240.cfd/ex1/mono.m3u8
+https://as9.zirvedesin241.cfd/ex1/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tâbii 2
-https://ilp.zirvedesin240.cfd/ex2/mono.m3u8
+https://as9.zirvedesin241.cfd/ex2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tâbii 3
-https://ilp.zirvedesin240.cfd/ex3/mono.m3u8
+https://as9.zirvedesin241.cfd/ex3/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://inattv1303.xyz/",Tâbii 4
-https://ilp.zirvedesin240.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Galatasaray - Göztepe
+https://as9.zirvedesin241.cfd/ex4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Samsunspor - Fenerbahçe
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:00 | Konyaspor - Kocaelispor
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:00 | Eyüpspor - Alanyaspor
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Gaziantep FK - Ç.Rizespor
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | İstanbul Başakşehir - Kasımpaşa
 https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",03:30 | Boca Juniors - Lanus
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",03:20 | Vasco Da Gama - Cruzeiro
 https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",14:00 | Karlsruhe - Wolfsburg
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",14:30 | Liverpool - Nottingham Forest
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",15:00 | Duisburg - Wurzburger Kickers
-https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:00 | MotoGP - Sprint Yarışları
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:30 | Elversberg - Bayer Leverkusen
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:30 | Köln - Hoffenheim
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:30 | Mainz - Paderborn
-https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:30 | Leipzig - Monchengladbach
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",13:15 | Utrecht - PSV
 https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:30 | Union Berlin - Eintracht Frankfurt
-https://2i4.d72577a9dd0ec71.cfd/ex6/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",17:00 | Bournemouth - Everton
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",17:00 | Coventry - Hull City
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",17:30 | Hoffenheim - Jahn Regensburg
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",14:00 | Aberdeen - Glasgow Rangers
+https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",14:30 | St.Pauli - Kaiserslautern
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",14:30 | Saarbrucken FC - Hansa Rostock
 https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",18:00 | Levante - Real Betis
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",15:00 | MotoGP - Aragon GP
 https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",18:15 | Strasbourg - Lens
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",15:30 | Feyenoord - ADO Den Haag
+https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",15:45 | Polonya - Almanya
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:00 | Paris FC - Nice
 https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:00 | Kayserispor - Bursaspor
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:00 | İstanbulspor - Karagümrük
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:00 | Chelsea - Brighton
+https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:00 | Leeds United - Brentford
 https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:05 | Al Kholood - Al Ahli
-https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:30 | Fiorentina - Frosinone
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:30 | Sassuolo - Torino
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:30 | Tottenham - Newcastle
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:30 | Borussia Dortmund - Hamburg
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:30 | Monza - Udinese
-https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",20:00 | Real Sociedad - Espanyol
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",20:00 | Academico Viseu - Porto
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:00 | Sunderland - Fulham
 https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Batman Petrol - Sivasspor
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Mardin 1969 - Vanspor
-https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Auxerre - Angers
-https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Lyon - Le Havre
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Juventus - Parma
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Brest - Toulouse
-https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Lorient - Troyes
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",16:30 | Freiburg - Werder Bremen
+https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",17:30 | Viktoria Köln - Munster
+https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",17:45 | SC Telstar - Ajax
 https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",22:30 | Sevilla - Atletico Madrid
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",18:00 | Real Madrid - Malaga
 https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",22:30 | Girona - Las Palmas
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",18:15 | Rennes - Le Mans
+https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",18:30 | Augsburg - Schalke 04
+https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",18:30 | Manchester Utd - Ipswich Town
+https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:00 | Esenler Erokspor - Iğdırspor
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:30 | Napoli - Como
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",20:30 | Deportivo - Valencia
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:00 | Al Qadsiah - Al Faysaly
 https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Manisa FK - Bodrumspor
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Monaco - Marsilya
+https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Cagliari - Inter
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:45 | Lazio - Genoa
+https://2i4.d72577a9dd0ec71.cfd/ex6/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",22:00 | Pisa - Catanzaro
+https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",22:30 | Celta Vigo - Athletic Bilbao
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",beIN Sports 1 A
 https://2i4.d72577a9dd0ec71.cfd/zirve/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",beIN Sports 1 B
@@ -297,80 +293,70 @@ https://hz8.d72577a9dd0ec62.cfd/skyf1/mono.m3u8
 https://hz8.d72577a9dd0ec62.cfd/eu1/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar3" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" referer="https://hepbetspor16.cfd/",EURO SPORT 2
 https://hz8.d72577a9dd0ec62.cfd/eu2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Galatasaray - Göztepe [21:30]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Samsunspor - Fenerbahçe [21:30]
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Konyaspor - Kocaelispor [19:00]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Eyüpspor - Alanyaspor [19:00]
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Gaziantep FK - Ç.Rizespor [21:30]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",İstanbul Başakşehir - Kasımpaşa [21:30]
 https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Boca Juniors - Lanus [03:30]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Vasco Da Gama - Cruzeiro [03:20]
 https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Karlsruhe - Wolfsburg [14:00]
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Liverpool - Nottingham Forest [14:30]
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Duisburg - Wurzburger Kickers [15:00]
-https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",MotoGP - Sprint Yarışları [16:00]
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Elversberg - Bayer Leverkusen [16:30]
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Köln - Hoffenheim [16:30]
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Mainz - Paderborn [16:30]
-https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Leipzig - Monchengladbach [16:30]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Utrecht - PSV [13:15]
 https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Union Berlin - Eintracht Frankfurt [16:30]
-https://2i4.d72577a9dd0ec71.cfd/ex6/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Bournemouth - Everton [17:00]
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Coventry - Hull City [17:00]
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Hoffenheim - Jahn Regensburg [17:30]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Aberdeen - Glasgow Rangers [14:00]
+https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",St.Pauli - Kaiserslautern [14:30]
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Saarbrucken FC - Hansa Rostock [14:30]
 https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Levante - Real Betis [18:00]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",MotoGP - Aragon GP [15:00]
 https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Strasbourg - Lens [18:15]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Feyenoord - ADO Den Haag [15:30]
+https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Polonya - Almanya [15:45]
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Paris FC - Nice [16:00]
 https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Kayserispor - Bursaspor [19:00]
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",İstanbulspor - Karagümrük [19:00]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Chelsea - Brighton [16:00]
+https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Leeds United - Brentford [16:00]
 https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Al Kholood - Al Ahli [19:05]
-https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Fiorentina - Frosinone [19:30]
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Sassuolo - Torino [19:30]
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Tottenham - Newcastle [19:30]
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Borussia Dortmund - Hamburg [19:30]
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Monza - Udinese [19:30]
-https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Real Sociedad - Espanyol [20:00]
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Academico Viseu - Porto [20:00]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Sunderland - Fulham [16:00]
 https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Batman Petrol - Sivasspor [21:30]
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Mardin 1969 - Vanspor [21:30]
-https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Auxerre - Angers [21:45]
-https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Lyon - Le Havre [21:45]
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Juventus - Parma [21:45]
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Brest - Toulouse [21:45]
-https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Lorient - Troyes [21:45]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Freiburg - Werder Bremen [16:30]
+https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Viktoria Köln - Munster [17:30]
+https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",SC Telstar - Ajax [17:45]
 https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Sevilla - Atletico Madrid [22:30]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Real Madrid - Malaga [18:00]
 https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Girona - Las Palmas [22:30]
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Rennes - Le Mans [18:15]
+https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Augsburg - Schalke 04 [18:30]
+https://2i4.d72577a9dd0ec71.cfd/ex4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Manchester Utd - Ipswich Town [18:30]
+https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Esenler Erokspor - Iğdırspor [19:00]
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Napoli - Como [19:30]
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Deportivo - Valencia [20:30]
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Al Qadsiah - Al Faysaly [21:00]
 https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Manisa FK - Bodrumspor [21:30]
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Monaco - Marsilya [21:45]
+https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Cagliari - Inter [21:45]
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Lazio - Genoa [21:45]
+https://2i4.d72577a9dd0ec71.cfd/ex6/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Pisa - Catanzaro [22:00]
+https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Celta Vigo - Athletic Bilbao [22:30]
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",BEIN SPORTS 1
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",BEIN SPORTS 2
