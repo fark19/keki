@@ -35,6 +35,12 @@ https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&cust
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_corun_kas_22agu_ip&secure=1
 #EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Erzurumspor FK 0-4 Galatasaray
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_2_erz_gs_2h_21agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",İstanbul Başakşehir 1-1 Kasımpaşa
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_bas_kas_30agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Samsunspor 0-2 Fenerbahçe
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_sam_fb_30agu_ip&secure=1
+#EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Eyüpspor 2-1 Corendon Alanyaspor
+https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_eyup_ala_30agu_ip&secure=1
 #EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Galatasaray 3-2 Göztepe
 https://dt-switch.akamaized.net/api/er/Get?ai=636&ak=null&switch=beinsports&customerid=1&format=4&action=redirect&ar=ligtvcomtr_tauri_ozt_20262027_3_gs_goz_3h_29h_ip&secure=1
 #EXTINF:-1 group-title="Süper_Lig_2026-2027" user-agent="None" referer="None",Gaziantep FK 1-2 Çaykur Rizespor
@@ -105,6 +111,8 @@ https://as9.zirvedesin241.cfd/ex3/mono.m3u8
 https://as9.zirvedesin241.cfd/ex4/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Samsunspor - Fenerbahçe
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | Samsunspor - Fenerbahçe 2
+https://2i4.d72577a9dd0ec71.cfd/https://sc.ed469618898d75b149e5c7c4b6a1c415.biz/hls/701.m3u8/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",19:00 | Eyüpspor - Alanyaspor
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar2" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" referer="https://taraftarium1081.xyz/",21:30 | İstanbul Başakşehir - Kasımpaşa
@@ -295,6 +303,8 @@ https://hz8.d72577a9dd0ec62.cfd/eu1/mono.m3u8
 https://hz8.d72577a9dd0ec62.cfd/eu2/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Samsunspor - Fenerbahçe [21:30]
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
+#EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Samsunspor - Fenerbahçe [21:30]
+https://2i4.d72577a9dd0ec71.cfd/https://sc.ed469618898d75b149e5c7c4b6a1c415.biz/hls/701.m3u8/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",Eyüpspor - Alanyaspor [19:00]
 https://2i4.d72577a9dd0ec71.cfd/patron/mono.m3u8
 #EXTINF:-1 group-title="karsilasmalar4" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://patronsports2.cfd/",İstanbul Başakşehir - Kasımpaşa [21:30]
