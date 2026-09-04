@@ -427,6 +427,18 @@ https://2i4.d72577a9dd0ec71.cfd/ex5/mono.m3u8
 https://2i4.d72577a9dd0ec71.cfd/ex6/mono.m3u8
 #EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Toulouse FC - Lille OSC [21:45]
 https://corestream.ardastream.live//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Iğdır FK - Manisa FK [17:00]
+https://corestream.ardastream.live//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Bodrum FK - Esenler Erokspor [20:00]
+https://corestream.ardastream.live//beinmax1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Bursaspor - İstanbulspor [20:00]
+https://corestream.ardastream.live//bein2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Toulouse - Lille [21:45]
+https://corestream.ardastream.live//bein4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Real Sociedad - Celta Vigo [22:00]
+https://corestream.ardastream.live//s-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Cagliari - Hellas Verona [22:00]
+https://corestream.ardastream.live//trt-spor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",BEIN SPORTS 1
 https://corestream.ardastream.live//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",BEIN SPORTS 2
