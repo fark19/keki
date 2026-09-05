@@ -6,36 +6,8 @@ import requests
 
 sources = [
     (
-        "Süper_Lig_2026-2027",
-        "https://raw.githubusercontent.com/mehmetey03/raply/refs/heads/main/metv/S%C3%BCper_Lig_2026-2027/S%C3%BCper_Lig_2026-2027.m3u"
-    ),
-    (
-        "karsilasmalar",
-        "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar.m3u"
-    ),
-    (
-        "karsilasmalar2",
-        "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar2.m3u"
-    ),
-    (
-        "karsilasmalar3",
-        "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar3.m3u"
-    ),
-    (
-        "karsilasmalar4",
-        "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar4.m3u"
-    ),
-    (
-        "karsilasmalar5",
-        "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/karsilasmalar5.m3u"
-    ),
-    (
         "atom_mac",
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/atom_mac.m3u"
-    ),
-    (
-        "liste",
-        "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/liste.m3u"
     ),
     (
         "sabit",
