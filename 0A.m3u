@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Genoa - Frosinone [16:00]
-https://corestream.d72377a9ds0ec71.cfd//s-sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Liverpool - Fulham [17:00]
-https://corestream.d72377a9ds0ec71.cfd//bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Chelsea - Hull City [17:00]
-https://corestream.d72377a9ds0ec71.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Boluspor - Pendikspor [17:00]
-https://corestream.d72377a9ds0ec71.cfd//beinmax1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Van Spor FK - Keçiörengücü [17:00]
-https://corestream.d72377a9ds0ec71.cfd//trt-spor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Samsunspor - Çorum FK [17:00]
-https://corestream.d72377a9ds0ec71.cfd//bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Eyüpspor - Çaykur Rizespor [17:00]
-https://corestream.d72377a9ds0ec71.cfd//bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Aston Villa - Nottingham Forest [17:00]
-https://corestream.d72377a9ds0ec71.cfd//beinmax2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Osasuna - Espanyol [17:15]
-https://corestream.d72377a9ds0ec71.cfd//s-sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Lazio - Milan [19:00]
-https://corestream.d72377a9ds0ec71.cfd//s-sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Adana Demirspor - Elazığspor [19:00]
-https://corestream.d72377a9ds0ec71.cfd//hls/tivibu-spor-1.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Athletic Bilbao - Elche [19:30]
-https://corestream.d72377a9ds0ec71.cfd//s-sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Tottenham - Everton [19:30]
-https://corestream.d72377a9ds0ec71.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Konyaspor - Trabzonspor [20:00]
-https://corestream.d72377a9ds0ec71.cfd//bein1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Alanyaspor - Göztepe [20:00]
-https://corestream.d72377a9ds0ec71.cfd//bein2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Ümraniyespor - Antalyaspor [20:00]
-https://corestream.d72377a9ds0ec71.cfd//beinmax2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Bodrum FK - Batman Petrolspor [20:00]
-https://corestream.d72377a9ds0ec71.cfd//beinmax1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Casa Pia - Porto [20:00]
-https://corestream.d72377a9ds0ec71.cfd//bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Paris FC - Lyon [21:45]
-https://corestream.d72377a9ds0ec71.cfd//bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Atalanta - Cagliari [21:45]
-https://corestream.d72377a9ds0ec71.cfd//s-sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Sunderland - Arsenal [22:00]
-https://corestream.d72377a9ds0ec71.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Real Madrid - Rayo Vallecano [22:00]
-https://corestream.d72377a9ds0ec71.cfd//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",BEIN SPORTS 1
 https://corestream.d72377a9ds0ec71.cfd//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",BEIN SPORTS 2
