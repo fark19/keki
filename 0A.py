@@ -13,6 +13,10 @@ sources = [
         "sabit",
         "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit.m3u"
     ),
+    (
+        "sabit-2",
+        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-2.m3u"
+    ),
 ]
 
 output_file = "0A.m3u"
