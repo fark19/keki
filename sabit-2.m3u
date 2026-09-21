@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,BEIN TV
+https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SSPORT TV
+https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SSPORT2 TV
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRTSPOR TV
+https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRT1 TV
+https://ladyboy.yedektv.cfd//trt1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Beinsports 1
 https://andro.evrenesoglu57.click/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1,Beinsports 1 A
