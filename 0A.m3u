@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Marsilya - PSG [21:45]
-https://ladyboy.yedektv.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Milan - Lecce [21:45]
-https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Porto - Benfica [22:30]
-https://ladyboy.yedektv.cfd//bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Olympique de Marseille - Paris Saint-Germain F.C. [21:45]
-https://ladyboy.yedektv.cfd//bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",Valencia - Real Sociedad [22:00]
-https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",BEIN SPORTS 1
 https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="atom_mac" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" referer="https://www.atomsportv514.top/",BEIN SPORTS 2
@@ -129,6 +119,16 @@ https://andro.2385437.xyz/checklist/androstreamliveexn6.m3u8
 https://andro.2385437.xyz/checklist/androstreamliveexn7.m3u8
 #EXTINF:-1 group-title="sabit" user-agent="None" referer="None",Exxen Sports 8
 https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",BEIN TV
+https://ladyboy.yedektv.cfd//beintv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",SSPORT TV
+https://ladyboy.yedektv.cfd//s-sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",SSPORT2 TV
+https://ladyboy.yedektv.cfd//s-sport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",TRTSPOR TV
+https://ladyboy.yedektv.cfd//trt-spor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",TRT1 TV
+https://ladyboy.yedektv.cfd//trt1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",Beinsports 1
 https://andro.evrenesoglu57.click/checklist/androstreamlivebiraz1.m3u8
 #EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",Beinsports 1 A
