@@ -171,3 +171,9 @@ https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtspor2-esdai.medya.trt.com
 https://turkuaz.tecostream.xyz/proxy?url=https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",TRT SPOR2 YILDIZ (prx)
 https://turkuaz.tecostream.xyz/proxy?url=https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",DENE SORU
+https://xddrts.alwaysdata.net/stream/lire.php?m3u8
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",DENE DIRE
+https://xddrts.alwaysdata.net/stream/lire.php
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",DENE GITH
+https://raw.githubusercontent.com/fark19/keki/refs/heads/main/dene1.m3u8
