@@ -177,3 +177,5 @@ https://xddrts.alwaysdata.net/stream/lire.php?m3u8
 https://xddrts.alwaysdata.net/stream/lire.php
 #EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",DENE GITH
 https://raw.githubusercontent.com/fark19/keki/refs/heads/main/dene1.m3u8
+#EXTINF:-1 group-title="sabit-2" user-agent="None" referer="None",DENE GITH2
+https://raw.githubusercontent.com/fark19/keki/refs/heads/main/dene1b.m3u8
