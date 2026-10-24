@@ -10,7 +10,7 @@ sources = [
         "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/atom_mac.m3u"
     ),
     (
-        "sabit",
+        "sabit-1",
         "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-1.m3u"
     ),
     (
