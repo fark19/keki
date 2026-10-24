@@ -11,11 +11,15 @@ sources = [
     ),
     (
         "sabit",
-        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit.m3u"
+        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-1.m3u"
     ),
     (
         "sabit-2",
         "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-2.m3u"
+    ),
+    (
+        "sabit-3",
+        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-3.m3u"
     ),
 ]
 
