@@ -1,184 +1,186 @@
+import re
 import requests
+from urllib.parse import urlsplit, urlunsplit
 
-# ============================================================
-# SOURCE PLAYLISTS
-# ============================================================
+TEMPLATE_URL = (
+    "https://raw.githubusercontent.com/fark19/keki/"
+    "refs/heads/main/0A.m3u"
+)
 
-sources = [
-    (
-        "atom_mac",
-        "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/atom_mac.m3u"
-    ),
-    (
-        "sabit-1",
-        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-1.m3u"
-    ),
-    (
-        "sabit-2",
-        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-2.m3u"
-    ),
-    (
-        "sabit-3",
-        "https://raw.githubusercontent.com/fark19/keki/refs/heads/main/sabit-3.m3u"
-    ),
-]
+MAHSUN_URL = (
+    "https://raw.githubusercontent.com/kadirsener1/mahsun/"
+    "refs/heads/main/mahsun.m3u"
+)
 
-output_file = "0A.m3u"
+ATOM_URL = (
+    "https://raw.githubusercontent.com/kadirsener1/atom/"
+    "refs/heads/main/atom.m3u"
+)
 
-headers = {
-    "User-Agent": "Mozilla/5.0"
-}
+OUTPUT_FILE = "0A.m3u"
+
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 
-# ============================================================
-# PARSE PLAYLIST
-# ============================================================
-
-def parse_playlist(content, group_title):
-
-    lines = [
-        line.strip()
-        for line in content.splitlines()
-        if line.strip()
-    ]
-
-    result = []
-
-    current_extinf = None
-    user_agent = None
-    referer = None
-
-    for line in lines:
-
-        # ----------------------------------------------------
-        # EXTINF
-        # ----------------------------------------------------
-        if line.startswith("#EXTINF:"):
-
-            channel_name = line.split(",", 1)[1].strip()
-
-            current_extinf = channel_name
-            user_agent = None
-            referer = None
-
-        # ----------------------------------------------------
-        # USER-AGENT
-        # ----------------------------------------------------
-        elif line.startswith("#EXTVLCOPT:http-user-agent="):
-
-            user_agent = line.split("=", 1)[1].strip()
-
-        # ----------------------------------------------------
-        # REFERRER
-        # ----------------------------------------------------
-        elif line.startswith("#EXTVLCOPT:http-referrer="):
-
-            referer = line.split("=", 1)[1].strip()
-
-        # ----------------------------------------------------
-        # STREAM URL
-        # ----------------------------------------------------
-        elif line.startswith(("http://", "https://")):
-
-            if current_extinf is not None:
-
-                result.append(
-                    (
-                        group_title,
-                        user_agent,
-                        referer,
-                        current_extinf,
-                        line
-                    )
-                )
-
-                current_extinf = None
-                user_agent = None
-                referer = None
-
-    return result
+def fetch_text(url):
+    response = requests.get(url, headers=HEADERS, timeout=30)
+    response.raise_for_status()
+    return response.text
 
 
-# ============================================================
-# DOWNLOAD AND PARSE
-# ============================================================
+def get_first_referer_and_domain(playlist):
+    """
+    Find the first EXTINF entry containing a referer,
+    then get the domain from its associated stream URL.
+    """
+    lines = playlist.splitlines()
 
-all_channels = []
+    for i, line in enumerate(lines):
+        if not line.strip().startswith("#EXTINF:"):
+            continue
 
-for group_title, url in sources:
-
-    print(f"Downloading: {group_title}")
-
-    try:
-
-        response = requests.get(
-            url,
-            headers=headers,
-            timeout=20
+        match = re.search(
+            r'\breferer\s*=\s*"([^"]*)"',
+            line,
+            re.IGNORECASE,
         )
 
-        response.raise_for_status()
+        if not match:
+            continue
 
-        # Parse the playlist
-        channels = parse_playlist(
-            response.text,
-            group_title
-        )
+        referer = match.group(1)
 
-        print(f"  Found {len(channels)} channels")
+        # Find the first URL following this EXTINF entry.
+        for next_line in lines[i + 1:]:
+            url = next_line.strip()
 
-        all_channels.extend(channels)
+            if not url or url.startswith("#"):
+                continue
 
-    except requests.RequestException as e:
+            parsed = urlsplit(url)
 
-        print(f"  ERROR downloading {group_title}: {e}")
-        continue
+            if parsed.scheme in ("http", "https") and parsed.netloc:
+                return referer, parsed.netloc
 
+            break
 
-# ============================================================
-# BUILD OUTPUT
-# ============================================================
-
-output_lines = ["#EXTM3U"]
-
-for (
-    group_title,
-    user_agent,
-    referer,
-    channel_name,
-    stream_url
-) in all_channels:
-
-    extinf = (
-        f'#EXTINF:-1 '
-        f'group-title="{group_title}" '
-        f'user-agent="{user_agent}" '
-        f'referer="{referer}",'
-        f'{channel_name}'
+    raise ValueError(
+        "Could not find a valid EXTINF referer and associated domain."
     )
 
-    output_lines.append(extinf)
-    output_lines.append(stream_url)
+
+def replace_referer(line, referer):
+    """Replace the referer attribute, preserving other attributes."""
+    if re.search(r'\breferer\s*=', line, re.IGNORECASE):
+        return re.sub(
+            r'(\breferer\s*=\s*)"[^"]*"|'
+            r"(\breferer\s*=\s*)[^,\s]+",
+            lambda m: (
+                (m.group(1) or m.group(2))
+                + '"'
+                + referer
+                + '"'
+            ),
+            line,
+            count=1,
+            flags=re.IGNORECASE,
+        )
+
+    # Add the attribute if it does not exist.
+    return re.sub(
+        r'(#EXTINF:[^,]*)',
+        lambda m: m.group(1) + f' referer="{referer}"',
+        line,
+        count=1,
+    )
 
 
-# ============================================================
-# WRITE 0A.m3u
-# ============================================================
+def replace_domain(url, domain):
+    """Replace only the URL hostname, preserving path and query."""
+    parsed = urlsplit(url)
 
-with open(
-    output_file,
-    "w",
-    encoding="utf-8",
-    newline="\n"
-) as f:
+    return urlunsplit((
+        parsed.scheme,
+        domain,
+        parsed.path,
+        parsed.query,
+        parsed.fragment,
+    ))
 
-    f.write("\n".join(output_lines) + "\n")
+
+def main():
+    template = fetch_text(TEMPLATE_URL)
+    mahsun = fetch_text(MAHSUN_URL)
+    atom = fetch_text(ATOM_URL)
+
+    # Get each playlist's first referer and associated stream domain.
+    mahsun_referer, mahsun_domain = get_first_referer_and_domain(mahsun)
+    atom_referer, atom_domain = get_first_referer_and_domain(atom)
+
+    print("Bölüm-1 referer:", mahsun_referer)
+    print("Bölüm-1 domain:", mahsun_domain)
+    print("Bölüm-2 referer:", atom_referer)
+    print("Bölüm-2 domain:", atom_domain)
+
+    lines = template.splitlines()
+    current_group = None
+    updated = []
+
+    for line in lines:
+        stripped = line.strip()
+
+        if stripped.startswith("#EXTINF:"):
+            group_match = re.search(
+                r'\bgroup-title="([^"]*)"',
+                line,
+                re.IGNORECASE,
+            )
+
+            current_group = (
+                group_match.group(1) if group_match else None
+            )
+
+            if current_group == "bölüm-1":
+                line = replace_referer(line, mahsun_referer)
+
+            elif current_group == "bölüm-2":
+                line = replace_referer(line, atom_referer)
+
+            updated.append(line)
+            continue
+
+        if stripped.startswith("http://") or stripped.startswith("https://"):
+            if current_group == "bölüm-1":
+                if "/checklist/androstreamlivebs" in stripped:
+                    line = replace_domain(stripped, mahsun_domain)
+
+            elif current_group == "bölüm-2":
+                if "/tracks-v1a1/mono.m3u8" in stripped:
+                    parsed = urlsplit(stripped)
+
+                    # Replace the channel path with /beintv/.
+                    path = re.sub(
+                        r"/bein\d*/tracks-v1a1/mono\.m3u8$",
+                        "/beintv/tracks-v1a1/mono.m3u8",
+                        parsed.path,
+                        flags=re.IGNORECASE,
+                    )
+
+                    line = urlunsplit((
+                        parsed.scheme,
+                        atom_domain,
+                        path,
+                        parsed.query,
+                        parsed.fragment,
+                    ))
+
+        updated.append(line)
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(updated) + "\n")
+
+    print(f"Updated playlist saved to {OUTPUT_FILE}")
 
 
-# ============================================================
-# SUMMARY
-# ============================================================
-
-print()
-print(f"Created: {output_file}")
-print(f"Total channels: {len(all_channels)}")
+if __name__ == "__main__":
+    main()
