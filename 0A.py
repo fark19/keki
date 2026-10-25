@@ -168,7 +168,7 @@ def main():
 
         if stripped.startswith("http://") or stripped.startswith("https://"):
             if current_group == "bölüm-1":
-                if "/checklist/androstreamlivebs" in stripped:
+                if "/checklist/androstream" in stripped:
                     line = replace_domain(stripped, mahsun_domain)
 
             elif current_group == "bölüm-2":
