@@ -29,43 +29,60 @@ def fetch_text(url):
 
 
 def get_first_referer_and_domain(playlist):
-    """
-    Find the first EXTINF entry containing a referer,
-    then get the domain from its associated stream URL.
-    """
     lines = playlist.splitlines()
 
-    for i, line in enumerate(lines):
-        if not line.strip().startswith("#EXTINF:"):
-            continue
+    # Match referer/referrer attributes, quoted or unquoted.
+    referer_pattern = re.compile(
+        r'\b(?:http[-_])?referr?er\s*=\s*'
+        r'(?:"([^"]*)"|\'([^\']*)\'|([^,\s]+))',
+        re.IGNORECASE,
+    )
 
-        match = re.search(
-            r'\breferer\s*=\s*"([^"]*)"',
-            line,
-            re.IGNORECASE,
-        )
+    for i, line in enumerate(lines):
+        match = referer_pattern.search(line)
 
         if not match:
             continue
 
-        referer = match.group(1)
+        referer = next(
+            (value for value in match.groups() if value is not None),
+            None,
+        )
 
-        # Find the first URL following this EXTINF entry.
+        if not referer or referer.lower() in ("none", "null"):
+            continue
+
+        # Find the stream URL associated with this entry.
         for next_line in lines[i + 1:]:
-            url = next_line.strip()
+            candidate = next_line.strip()
 
-            if not url or url.startswith("#"):
+            if not candidate:
                 continue
 
-            parsed = urlsplit(url)
+            # Do not cross into another channel entry.
+            if candidate.startswith("#EXTINF:"):
+                break
 
-            if parsed.scheme in ("http", "https") and parsed.netloc:
+            if candidate.startswith("#"):
+                continue
+
+            parsed = urlsplit(candidate)
+
+            if parsed.scheme.lower() in ("http", "https") and parsed.hostname:
                 return referer, parsed.netloc
 
+            # Stop if this is not a valid stream URL.
             break
 
+    # Print useful diagnostic information if no matching pair exists.
+    print("DEBUG: No valid referer/domain pair found.")
+    print("DEBUG: First playlist lines:")
+    for line in lines[:20]:
+        print(repr(line))
+
     raise ValueError(
-        "Could not find a valid EXTINF referer and associated domain."
+        "Could not find a valid referer and associated stream URL. "
+        "Check the DEBUG output above."
     )
 
 
