@@ -14,7 +14,7 @@ MAHSUN_URL = (
 
 ATOM_URL = (
     "https://raw.githubusercontent.com/kadirsener1/atom/"
-    "refs/heads/main/atom.m3u"
+    "refs/heads/main/playlist.m3u"
 )
 
 OUTPUT_FILE = "0A.m3u"
