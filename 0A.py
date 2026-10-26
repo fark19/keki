@@ -195,14 +195,6 @@ def main():
                 if "/tracks-v1a1/mono.m3u8" in stripped:
                     parsed = urlsplit(stripped)
 
-                    # Keep the desired /beintv/ path.
-                    path = re.sub(
-                        r"/bein\d*/tracks-v1a1/mono\.m3u8$",
-                        "/beintv/tracks-v1a1/mono.m3u8",
-                        parsed.path,
-                        flags=re.IGNORECASE,
-                    )
-
                     line = urlunsplit((
                         parsed.scheme,
                         atom_domain,
