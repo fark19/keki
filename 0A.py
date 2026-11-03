@@ -9,7 +9,7 @@ TEMPLATE_URL = (
 )
 
 MAHSUN_URL = (
-    "https://raw.githubusercontent.com/kadirsener1/mahsun/"
+    "https://raw.githubusercontent.com/mehmetey03/METV/"
     "refs/heads/main/mahsun.m3u"
 )
 
